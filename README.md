@@ -194,3 +194,23 @@ stage. ThirdEye is the first proof.
 ## License
 
 Apache 2.0. See `LICENSE`.
+
+## 📚 Citation
+
+### Academic Citation
+
+If you use this codebase in your research or project, please cite:
+
+```bibtex
+@software{thirdeye-audio,
+  title = {ThirdEye-audio: ThirdEye is an audio visualization environment for Windows. Point it at your 6 music — a file, your microphone},
+  author = {Drift Johnson},
+  year = {2026},
+  url = {https://github.com/MushroomFleet/ThirdEye-Audio},
+  version = {1.0.0}
+}
+```
+
+### Donate
+
+[![Ko-Fi](https://cdn.ko-fi.com/cdn/kofi3.png?v=3)](https://ko-fi.com/driftjohnson)
